@@ -25,4 +25,6 @@ navegador.find_element("xpath",'//*[@id="ctl00_cphCabMenu_btAvancar"]').click()
 
 navegador.find_element("xpath", '//*[@id="ctl00_cphCabMenu_tbDiscriminacao"]').send_keys("")
 navegador.find_element("xpath", '//*[@id="ctl00_cphCabMenu_tbValor"]').send_keys("")
+navegador.find_element("xpath",'//*[@id="ctl00_cphCabMenu_btEmitir"]').click()
+
 
