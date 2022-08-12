@@ -25,5 +25,6 @@ Example:<br>`driver.find_element("xpath",'//*[@id="ctl00_cphCabMenu_tbSenha"]').
 `pip 21.2.3`<br>
 
 
-
-### By [@bastosydaniel](https://bastosydaniel.github.io/My-devfolio/)
+<div align="center">
+<a href="https://bastosydaniel.github.io/My-devfolio/"><img src="https://img.shields.io/badge/-bastosydaniel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+</div>
